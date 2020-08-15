@@ -1,5 +1,9 @@
 # Kesem Make the Magic webpage
-
+This is a live paddle-raise fundraising platform used by Camp Kesem at UCLA for their annual, Make the Magic fundraiser, held virtually in May 2020. 
+Key features: 
+- Live paddle-raise virtual room in which participants can virtually "raise their paddle" at a specified raise level. Aggregates all partcipant information (name, email, level raised at) and tracks the total amount.
+- Silent Auction webpage. 
+- Information regarding Camp Kesem at UCLA. 
 
 ## Developer build instructions
 

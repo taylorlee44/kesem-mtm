@@ -5,7 +5,7 @@ Key features:
 - Silent Auction webpage. 
 - Information regarding Camp Kesem at UCLA. 
 
-Deployed via Heroku at http://uclamtm.com. 
+Deployed via Heroku at https://uclamtm.com. 
 
 ## Developer build instructions
 
